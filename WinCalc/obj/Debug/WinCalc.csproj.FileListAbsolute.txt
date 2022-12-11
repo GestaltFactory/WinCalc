@@ -1,0 +1,46 @@
+C:\Users\Yannick\AppData\Local\Temporary Projects\WinCalc\bin\Debug\WinCalc.exe.config
+C:\Users\Yannick\AppData\Local\Temporary Projects\WinCalc\bin\Debug\WinCalc.exe
+C:\Users\Yannick\AppData\Local\Temporary Projects\WinCalc\bin\Debug\WinCalc.pdb
+C:\Users\Yannick\AppData\Local\Temporary Projects\WinCalc\obj\Debug\WinCalc.csprojResolveAssemblyReference.cache
+C:\Users\Yannick\AppData\Local\Temporary Projects\WinCalc\obj\Debug\WinCalc.Properties.Resources.resources
+C:\Users\Yannick\AppData\Local\Temporary Projects\WinCalc\obj\Debug\WinCalc.csproj.GenerateResource.Cache
+C:\Users\Yannick\AppData\Local\Temporary Projects\WinCalc\obj\Debug\WinCalc.exe
+C:\Users\Yannick\AppData\Local\Temporary Projects\WinCalc\obj\Debug\WinCalc.pdb
+C:\Users\Yannick\AppData\Local\Temporary Projects\WinCalc\obj\Debug\WinCalc.Form1.resources
+E:\C#\WinCalc\WinCalc\bin\Debug\WinCalc.exe.config
+E:\C#\WinCalc\WinCalc\obj\Debug\WinCalc.exe
+E:\C#\WinCalc\WinCalc\obj\Debug\WinCalc.pdb
+E:\C#\WinCalc\WinCalc\bin\Debug\WinCalc.exe
+E:\C#\WinCalc\WinCalc\bin\Debug\WinCalc.pdb
+E:\C#\WinCalc\WinCalc\obj\Debug\WinCalc.csprojResolveAssemblyReference.cache
+E:\C#\WinCalc\WinCalc\obj\Debug\WinCalc.Properties.Resources.resources
+E:\C#\WinCalc\WinCalc\obj\Debug\WinCalc.csproj.GenerateResource.Cache
+L:\C#\WinCalc\WinCalc\bin\Debug\WinCalc.exe.config
+L:\C#\WinCalc\WinCalc\obj\Debug\WinCalc.exe
+L:\C#\WinCalc\WinCalc\obj\Debug\WinCalc.pdb
+L:\C#\WinCalc\WinCalc\bin\Debug\WinCalc.exe
+L:\C#\WinCalc\WinCalc\bin\Debug\WinCalc.pdb
+L:\C#\WinCalc\WinCalc\obj\Debug\WinCalc.csprojResolveAssemblyReference.cache
+L:\C#\WinCalc\WinCalc\obj\Debug\WinCalc.Form1.resources
+L:\C#\WinCalc\WinCalc\obj\Debug\WinCalc.Properties.Resources.resources
+L:\C#\WinCalc\WinCalc\obj\Debug\WinCalc.csproj.GenerateResource.Cache
+H:\C#\WinCalc\WinCalc\bin\Debug\WinCalc.exe.config
+H:\C#\WinCalc\WinCalc\obj\Debug\WinCalc.exe
+H:\C#\WinCalc\WinCalc\obj\Debug\WinCalc.pdb
+H:\C#\WinCalc\WinCalc\bin\Debug\WinCalc.exe
+H:\C#\WinCalc\WinCalc\bin\Debug\WinCalc.pdb
+H:\C#\WinCalc\WinCalc\obj\Debug\WinCalc.csprojResolveAssemblyReference.cache
+H:\C#\WinCalc\WinCalc\obj\Debug\WinCalc.Properties.Resources.resources
+H:\C#\WinCalc\WinCalc\obj\Debug\WinCalc.csproj.GenerateResource.Cache
+H:\C#\WinCalc\WinCalc\obj\Debug\WinCalc.FormCalculator.resources
+E:\C#\WinCalc\WinCalc\obj\Debug\WinCalc.FormCalculator.resources
+D:\Users\Yannick\Desktop\Portfolio\project to review\portfolio\C#\course data\WinCalc\WinCalc\bin\Debug\WinCalc.exe.config
+D:\Users\Yannick\Desktop\Portfolio\project to review\portfolio\C#\course data\WinCalc\WinCalc\bin\Debug\WinCalc.exe
+D:\Users\Yannick\Desktop\Portfolio\project to review\portfolio\C#\course data\WinCalc\WinCalc\bin\Debug\WinCalc.pdb
+D:\Users\Yannick\Desktop\Portfolio\project to review\portfolio\C#\course data\WinCalc\WinCalc\obj\Debug\WinCalc.csproj.AssemblyReference.cache
+D:\Users\Yannick\Desktop\Portfolio\project to review\portfolio\C#\course data\WinCalc\WinCalc\obj\Debug\WinCalc.FormCalculator.resources
+D:\Users\Yannick\Desktop\Portfolio\project to review\portfolio\C#\course data\WinCalc\WinCalc\obj\Debug\WinCalc.Properties.Resources.resources
+D:\Users\Yannick\Desktop\Portfolio\project to review\portfolio\C#\course data\WinCalc\WinCalc\obj\Debug\WinCalc.csproj.GenerateResource.cache
+D:\Users\Yannick\Desktop\Portfolio\project to review\portfolio\C#\course data\WinCalc\WinCalc\obj\Debug\WinCalc.csproj.CoreCompileInputs.cache
+D:\Users\Yannick\Desktop\Portfolio\project to review\portfolio\C#\course data\WinCalc\WinCalc\obj\Debug\WinCalc.exe
+D:\Users\Yannick\Desktop\Portfolio\project to review\portfolio\C#\course data\WinCalc\WinCalc\obj\Debug\WinCalc.pdb
