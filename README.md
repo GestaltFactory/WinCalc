@@ -12,8 +12,7 @@ Key Features:
     Windows Forms UI with responsive buttons and real-time input
 
     Separation of concerns between UI and logic (via Program.cs and FormCalculator.cs)
-
-    Resource-managed layout using resx for localization/scaling
+    
 
 <p align="center">
     <img src="https://github.com/GestaltFactory/WinCalc/blob/main/01.PNG" width="35%">
